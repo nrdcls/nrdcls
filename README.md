@@ -1,1 +1,5 @@
-Sou uma desenvolvedora de software apaixonada e determinada, pronta para mergulhar de cabeça no mundo da tecnologia. Com uma mente curiosa e sede de aprendizado, estou sempre buscando novos desafios para aprimorar minhas habilidades. Minha formação técnica sólida e minha capacidade de trabalho em equipe me permitem contribuir de forma significativa para projetos de desenvolvimento de software. Estou ansiosa para crescer profissionalmente e fazer minha marca neste campo empolgante.
+Estudante de Sistema da Informação, com foco em desenvolvimento FullStack e Ciência de Dados. Através de projetos pessoais, adquiri conhecimento nas praticas de desenvolvimento de Software. 
+
+Minha especialização é em desenvolvimento com Python para backend e desenvolvimento com JavaScript para frontend. 
+
+Na minha jornada profissional pude me aprofundar bastante nas tecnologias do frontend como HTML, CSS e JavaScript.
